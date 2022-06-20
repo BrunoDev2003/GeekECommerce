@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3cbd499.css",
+    "main.js": "/static/js/main.6e904ff5.js",
+    "static/js/787.26b991ca.chunk.js": "/static/js/787.26b991ca.chunk.js",
+    "static/media/camiseta_ecommerce.jpg": "/static/media/camiseta_ecommerce.1de64879e8e9293d2f02.jpg",
+    "index.html": "/index.html",
+    "main.d3cbd499.css.map": "/static/css/main.d3cbd499.css.map",
+    "main.6e904ff5.js.map": "/static/js/main.6e904ff5.js.map",
+    "787.26b991ca.chunk.js.map": "/static/js/787.26b991ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3cbd499.css",
+    "static/js/main.6e904ff5.js"
+  ]
+}
